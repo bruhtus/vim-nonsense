@@ -31,6 +31,10 @@ colo nonsense
 
 `¯\_(ツ)_/¯`
 
+## Screenshot
+
+Check the [wiki](https://github.com/bruhtus/vim-nonsense/wiki).
+
 ## Inspired by
 
 - [Kuroi.vim](https://github.com/aonemd/kuroi.vim).
